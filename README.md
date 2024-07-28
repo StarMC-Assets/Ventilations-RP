@@ -1,1 +1,1 @@
-# StarMC-Ventilations-RP
+# Ventilations ResourcePack
